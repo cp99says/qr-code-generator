@@ -1,4 +1,4 @@
-  const qr=require('qrcode')
+  const qr1=require('qrcode')
   const xlsx=require('xlsx')
 
 
